@@ -1,12 +1,10 @@
 #include "main.h"
 
 /**
- * _abs - checks for absolute value
- *
-*@a:parameter to be checked 
- *
- *Return: Always a
- */
+* _abs - checks for absolute value
+*@a: perimeter to be checked
+*Return: Always a
+*/
 
 int _abs(int a)
 {
